@@ -1,4 +1,6 @@
 {
+    /* Language Specific Settings */
+    // LaTeX
     "[latex]": {
         "editor.formatOnSave": false,
         "editor.tabSize": 2
@@ -6,5 +8,47 @@
     "[bibtex]": {
         "editor.formatOnSave": false,
         "editor.tabSize": 2
-    }
+    },
+    /* Global Editor Settings */
+    // Spell Checking,
+    "cSpell.diagnosticLevel": "Warning",
+    "cSpell.enabled": true,
+    "cSpell.enabledLanguageIds": [
+        "asciidoc",
+        "c",
+        "cpp",
+        "csharp",
+        "css",
+        "git-commit",
+        "go",
+        "handlebars",
+        "haskell",
+        "html",
+        "jade",
+        "java",
+        "javascript",
+        "javascriptreact",
+        "json",
+        "jsonc",
+        "latex",
+        "less",
+        "markdown",
+        "php",
+        "plaintext",
+        "python",
+        "pug",
+        "restructuredtext",
+        "rust",
+        "scala",
+        "scss",
+        "text",
+        "typescript",
+        "typescriptreact",
+        "yaml",
+        "yml"
+    ],
+    "cSpell.words": [
+        "defn",
+        "mathcolor"
+    ]
 }

@@ -23,4 +23,5 @@
 *.lol
 *.run.xml
 *.pdf
+!finals/*.pdf
 *.bcf
