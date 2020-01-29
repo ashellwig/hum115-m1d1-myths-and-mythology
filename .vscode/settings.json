@@ -1,0 +1,10 @@
+{
+    "[latex]": {
+        "editor.formatOnSave": false,
+        "editor.tabSize": 2
+    },
+    "[bibtex]": {
+        "editor.formatOnSave": false,
+        "editor.tabSize": 2
+    }
+}
