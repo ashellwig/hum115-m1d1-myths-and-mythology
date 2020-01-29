@@ -53,9 +53,10 @@ clean:
 	$(RM) *.bib.blg
 	$(RM) *.run.xml
 	$(RM) *.synctex.gz
+	$(RM) *.dvi
+	$(RM) *.out.ps
 
 all-clean: clean
 	$(RM) *.html
 	$(RM) *.css
 	$(RM) *.pdf
-	$(RM) *.out.ps

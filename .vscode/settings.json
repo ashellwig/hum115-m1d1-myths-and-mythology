@@ -9,43 +9,22 @@
         "editor.formatOnSave": false,
         "editor.tabSize": 2
     },
+    // HTML
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features",
+        "editor.formatOnSave": true
+    },
+    "html.format.wrapLineLength": 80,
     /* Global Editor Settings */
     // Spell Checking,
     "cSpell.diagnosticLevel": "Warning",
     "cSpell.enabled": true,
     "cSpell.enabledLanguageIds": [
-        "asciidoc",
-        "c",
-        "cpp",
-        "csharp",
-        "css",
-        "git-commit",
-        "go",
-        "handlebars",
-        "haskell",
-        "html",
-        "jade",
-        "java",
-        "javascript",
-        "javascriptreact",
-        "json",
-        "jsonc",
         "latex",
-        "less",
         "markdown",
-        "php",
         "plaintext",
-        "python",
-        "pug",
         "restructuredtext",
-        "rust",
-        "scala",
-        "scss",
-        "text",
-        "typescript",
-        "typescriptreact",
-        "yaml",
-        "yml"
+        "text"
     ],
     "cSpell.words": [
         "defn",

@@ -23,5 +23,10 @@
 *.lol
 *.run.xml
 *.pdf
+*.html
+*.dvi
+*.css
+*.out.ps
 !finals/*.pdf
+!finals/*.html
 *.bcf
